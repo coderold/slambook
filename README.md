@@ -1,17 +1,12 @@
-# advmobprog_midterms_tp02_molina
+# Slambook Flutter Application
 
-A new Flutter project.
+A Midterm Fluter Project for Advanced Mobile Programming
 
-## Getting Started
+Web View:
 
-This project is a starting point for a Flutter application.
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/e7b60313-b8ad-4f62-a99d-923e77213e35" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/cc0af9f5-1823-4ebe-a1d7-101c5051e12a" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Mobile View:
+![1](https://github.com/user-attachments/assets/b7759d69-f3d6-4265-9236-1664c31a084c)
+![3](https://github.com/user-attachments/assets/394925ea-6f52-4c36-be73-e9fba94a2a9c)
