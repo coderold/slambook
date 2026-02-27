@@ -111,7 +111,7 @@ class SlambookBody extends StatelessWidget {
                 color: AppTheme.midnightNavy,
                 label: "Favorite Color",
                 data: profileData["Favorite color"]!,
-                fontSize: isScreenSmol ? 12 : 18,
+                fontSize: isScreenSmol ? 10 : 14,
               ),
             ),
             Expanded(

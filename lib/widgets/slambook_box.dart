@@ -37,7 +37,7 @@ class SlambookBox extends StatelessWidget {
           Container(
             alignment: Alignment.topLeft,
             child: Text(
-              "$label:", // Parameter used here
+              "$label:", 
               style: GoogleFonts.poppins(
                 color: AppTheme.textLight,
                 fontSize: 14,
